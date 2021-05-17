@@ -11,4 +11,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+    // zmiana nazwy huty w Nowej Hucie
+
+
 }
